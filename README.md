@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 ### Hi there 👋, I'm chuwuwang
 
 - 🌱 I’m currently learning Flutter and Rust
-- 👯 I’m looking to collaborate on development or payment solutions product part-time
+- 👯 I’m looking to collaborate on part-time development or payment solutions product
 - 💬 Ask me about Payments | POS | ECR | SaaS | Retail | Cross-border | Face Pay | Palm Pay
 - 📫 How to reach me: chuwuwang@126.com
