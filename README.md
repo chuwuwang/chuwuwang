@@ -22,3 +22,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋, I'm chuwuwang.
+
+- 🌱 I’m currently learning Flutter and Rust
+- 👯 I’m looking to collaborate on development or payment solutions product part-time
+- 💬 Ask me about Payments | POS | ECR | SaaS | Retail | Cross-border | Face Pay | Palm Pay
+- 📫 How to reach me: chuwuwang@126.com
+- PayPal: chuwuwang@126.com
+- Alipay: <img width="307" height="239" alt="image" src="https://github.com/user-attachments/assets/be21e52b-3782-4d0f-9630-42900bd054f0" />
