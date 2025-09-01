@@ -23,11 +23,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, I'm chuwuwang.
+### Hi there 👋, I'm chuwuwang
 
 - 🌱 I’m currently learning Flutter and Rust
 - 👯 I’m looking to collaborate on development or payment solutions product part-time
 - 💬 Ask me about Payments | POS | ECR | SaaS | Retail | Cross-border | Face Pay | Palm Pay
 - 📫 How to reach me: chuwuwang@126.com
-- PayPal: chuwuwang@126.com
-- Alipay or WeChat: <img width="307" height="239" alt="image" src="https://github.com/user-attachments/assets/be21e52b-3782-4d0f-9630-42900bd054f0" /> <img width="307" height="239" alt="image" src="https://github.com/user-attachments/assets/91955f76-b8d8-4ca4-be6b-92e661bc3806" />
