@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Payments | POS | ECR | SaaS | Retail | Cross-border | Face Pay | Palm Pay
 - 📫 How to reach me: chuwuwang@126.com
 - PayPal: chuwuwang@126.com
-- Alipay: <img width="307" height="239" alt="image" src="https://github.com/user-attachments/assets/be21e52b-3782-4d0f-9630-42900bd054f0" />
+- Alipay or WeChat: <img width="307" height="239" alt="image" src="https://github.com/user-attachments/assets/be21e52b-3782-4d0f-9630-42900bd054f0" /> <img width="307" height="239" alt="image" src="https://github.com/user-attachments/assets/91955f76-b8d8-4ca4-be6b-92e661bc3806" />
