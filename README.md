@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Flutter and Rust
 - 👯 I’m looking to collaborate on part-time development or payment solutions product
 - 💬 Ask me about Payments | POS | ECR | SaaS | Retail | Cross-border | Face Pay | Palm Pay
-- 🩷 Support me PayPal: chuwuwang@126.com
+- 🩷 Support me for PayPal: chuwuwang@126.com
 - 📫 How to reach me: chuwuwang@126.com
