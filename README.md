@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on part-time development or payment solutions product
 - 💬 Ask me about Payments | POS | ECR | SaaS | Retail | Cross-border | Face Pay | Palm Pay
 - 🩷 Support me via PayPal: chuwuwang@126.com
-- 📫 How to reach me: chuwuwang@126.com
+- 📫 How to reach me: lee645521797@gmail.com
