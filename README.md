@@ -21,12 +21,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🩷 Support me via PayPal: lee645521797@gmail.com
 -->
 
 ### Hi there 👋, I'm chuwuwang
-
 - 🌱 I’m currently learning Flutter and Rust
 - 👯 I’m looking to collaborate on part-time development or payment solutions product
 - 💬 Ask me about Payments | POS | ECR | SaaS | Retail | Cross-border | Face Pay | Palm Pay
-- 🩷 Support me via PayPal: lee645521797@gmail.com
 - 📫 How to reach me: lee645521797@gmail.com
