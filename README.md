@@ -29,3 +29,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on part-time development or payment solutions product
 - 💬 Ask me about Payments | POS | ECR | SaaS | Retail | Cross-border | Face Pay | Palm Pay
 - 📫 How to reach me: lee645521797@gmail.com
+<div>
+  <a href="https://www.buymeacoffee.com/slime8992"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=slime8992&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+</div>
