@@ -22,6 +22,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🩷 Support me via PayPal: lee645521797@gmail.com
+
+<div>
+  <a href="https://www.buymeacoffee.com/slime8992">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=slime8992&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+</div>
 -->
 
 ### Hi there 👋, I'm chuwuwang
@@ -29,6 +34,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on part-time development or payment solutions product
 - 💬 Ask me about Payments | POS | ECR | SaaS | Retail | Cross-border | Face Pay | Palm Pay
 - 📫 How to reach me: lee645521797@gmail.com
+
 <div>
-  <a href="https://www.buymeacoffee.com/slime8992"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=slime8992&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+  <a href="https://www.buymeacoffee.com/slime8992">
+  <img width="251" height="54" alt="image" src="https://github.com/user-attachments/assets/677d170a-3f24-434f-b0c9-0c274f3dc6a3" />
 </div>
