@@ -29,10 +29,11 @@ Here are some ideas to get you started:
 </div>
 -->
 
-### Hi there 👋, I'm chuwuwang
+### Hi there 👋, I'm Peck Chu
 - 🌱 I’m currently learning Flutter and Rust
 - 👯 I’m looking to collaborate on part-time development or payment solutions product
 - 💬 Ask me about Payments | POS | ECR | SaaS | Retail | Cross-border | Face Pay | Palm Pay
+- ⚡ Fun fact: I’m a fishing enthusiast, a World of Warcraft fan, and I have a strong obsession with clean code
 - 📫 How to reach me: lee645521797@gmail.com
 
 <div>
