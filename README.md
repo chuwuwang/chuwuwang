@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on part-time development or payment solutions product
 - 💬 Ask me about Payments | POS | ECR | SaaS | Retail | Cross-border | Face Pay | Palm Pay
 - ⚡ Fun fact: I’m a fishing enthusiast, a World of Warcraft fan, and I have a strong obsession with clean code
-- 📫 How to reach me: chuwuwang@126.com
-  
+
 <!--
+- 📫 How to reach me: chuwuwang@126.com
 <div>
   <a href="https://www.buymeacoffee.com/slime8992">
   <img width="251" height="54" alt="image" src="https://github.com/user-attachments/assets/677d170a-3f24-434f-b0c9-0c274f3dc6a3" />
